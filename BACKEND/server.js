@@ -10,7 +10,7 @@ const app= express();
 
 //step 5 
 require("dotenv").config();
-//end of step5
+//end of step 5
 
 /*step 6 in package.json
 
